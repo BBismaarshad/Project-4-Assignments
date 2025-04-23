@@ -1,5 +1,6 @@
 def main():
     # Ask the user to enter a number
+    
     num = int(input("Enter a number: "))
     
     # Initialize curr_value with the entered number

@@ -1,4 +1,3 @@
-
 def main():
     # Prompt the user to enter the first number
     num1 = int(input("Enter the first number: "))
